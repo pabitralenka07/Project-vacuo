@@ -10,7 +10,7 @@
 
 **Next-generation, ultra-sleek web experience for VACUO — industrial precision vacuum sealing, cold chain distribution, and extended shelf-life preservation.**
 
-[Live Demo](#-getting-started) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Project Structure](#-project-structure)
+[Live Demo](https://pabitralenka07.github.io/Project-vacuo/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Project Structure](#-project-structure)
 
 </div>
 
